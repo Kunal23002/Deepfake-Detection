@@ -78,9 +78,11 @@ streamlit run DeepFake_Detection_Web_App.py
    - Visual representation of predictions
 
 
+## Contributors
 
-
-## Contributing
+- @kuvalkgarg
+- @kunal23002  
+  
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
