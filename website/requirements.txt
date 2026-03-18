@@ -1,0 +1,2 @@
+typing-extensions==4.5.0
+gradio==3.45.0
